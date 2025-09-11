@@ -13,7 +13,7 @@
   <packaging>warfile</packaging>
 
   <name>SWM</name>
-  <url>htp://maven.apache.org</url> 
+  <url>https:/mvn.apache.org</url> 
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
